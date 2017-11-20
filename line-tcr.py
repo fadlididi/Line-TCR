@@ -35,7 +35,7 @@ print "login success"
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage =""" - Ard Squad bot -
+helpMessage =""" - Did'i bot -
 
 General command :
 Me  =  Cek akun sendiri
@@ -93,7 +93,7 @@ Setgroup =""" Private Menu 􀔃􀄆red check mark􏿿
 [Did'i Squad join] = Invite semua bot
 [Bye bots] = Mengeluarkan semua bots assist
 [Bye Did'i] = Mengeluarkan bot utama
-[Ard out] = Mengeluarkan bot utama dari semua grup
+[Did'i out] = Mengeluarkan bot utama dari semua grup
 [Bc ...] = Untuk broadcast ke semua grup
 [Kernel] = Melihat kernel bot"""
 KAC=[cl,ki,kk,kc]
@@ -113,7 +113,7 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':True,
-    'message':"Thanks for adding me\nFollow my instagram; instagram.com/fajrinard",
+    'message':"Thanks for adding me\nFollow my instagram; instagram.com/fadlididi",
     "lang":"JP",
     "comment":"Thanks for add me",
     "commentOn":True,
@@ -121,10 +121,10 @@ wait = {
     "wblack":False,
     "dblack":False,
     "clock":False,
-    "cName":"Ard",
-    "cName2":"Ard 1",
-    "cName3":"Ard 2",
-    "cName4":"Ard 3",
+    "cName":"Didi",
+    "cName2":"Didi 1",
+    "cName3":"Didi 2",
+    "cName4":"Didi 3",
     "blacklist":{},
     "wblacklist":False,
     "dblacklist":False,
